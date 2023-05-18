@@ -1,0 +1,109 @@
+.bg{
+    height: 100%;
+    width:100%;
+    position: relative;
+    opacity: 0.6;
+}
+span {
+    color:red
+    }
+    h1{
+    text-align:center;
+    border-radius:10px 10px 0 0;
+    margin:-10px -40px;
+    padding:15px;
+    color:black;
+    font-size: 90px;
+
+
+    }
+    h2
+    {
+    text-align:center;
+    border-radius:10px 10px 0 0;
+    margin:-10px -40px;
+    padding:15px;
+    
+    }
+    h3
+    {
+    text-align:center;
+    border-radius:10px 10px 0 0;
+    margin:-10px -40px;
+    padding:15px;
+    color: red;
+    font-size: 25px;
+    
+    }
+    hr
+    {
+    border:0;
+    border-bottom:1px solid;
+    margin:10px -40px;
+    margin-bottom:30px
+    }
+    #login {
+        margin: auto;
+        width: 1000px;
+        border-radius: 10px;
+        border: 2px solid #d65555;
+        padding: 10px 40px 25px;
+        background-color: #e388884f;
+        position: absolute;
+        top: 380px;
+        left: 480px;
+    }
+    input[type=text],input[type=password]
+    {
+    width:96.5%;
+    padding:10px;
+    margin-top:8px;
+    border:1px solid #ccc;
+    padding-left:5px;
+    font-size:20px;
+    }
+    input[type=submit]
+    {
+    width:100%;
+    background-color:#ff5b5b;
+    color:#fff;
+    border:2px solid white;
+    padding:10px;
+    font-size:20px;
+    cursor:pointer;
+    border-radius:5px;
+    }
+
+    #welcome{
+        font-size: xx-large;
+    }
+    #welcome1{
+        font-size: x-large;
+        color: lawngreen;
+        border: 2px solid #000000;
+        background-color: rgb(10, 254, 10);
+        border-radius: 10px;
+    }
+    #profile
+    {
+    padding:50px;
+    border:1px dashed rgb(245, 5, 5);
+    font-size:20px;
+    background-color:blue;
+    }
+    #logout
+    {
+    float:right;
+    padding:5px;
+    border:dashed 1px gray;
+    font-size: x-large;
+    }
+    a
+    {
+    text-decoration:none;
+    color:black;
+    }
+    i
+    {
+    color:black;
+    }
